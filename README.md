@@ -1,15 +1,15 @@
-# 📚 Library Management API
+# Library Management API
 
 A complete RESTful API to manage a collection of books, allowing all CRUD (Create, Read, Update, Delete) operations. This project was developed with **Java 17** and **Spring Boot**, following best practices for API development.
 
-## ✨ Features
+## Features
 
 -   **Create Books:** Add new books to the collection.
 -   **List Books:** Get the complete list of books or retrieve a specific book by its ID.
 -   **Update Books:** Modify the information of an existing book.
 -   **Delete Books:** Remove a book from the collection.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 -   **Language:** Java 17
 -   **Framework:** Spring Boot
@@ -18,7 +18,7 @@ A complete RESTful API to manage a collection of books, allowing all CRUD (Creat
 -   **Build Tool:** Maven
 -   **Utilities:** Lombok (Optional)
 
-## ▶️ How to Run the Project
+## How to Run the Project
 
 ### Prerequisites
 
